@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+- <query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="1" yahoo:created="2012-10-16T05:26:46Z" yahoo:lang="en-US">
+- <results>
+- <place xmlns="http://where.yahooapis.com/v1/schema.rng" xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/1132599&u=c">
+  <woeid>1132599</woeid> 
+  <placeTypeName code="7">Town</placeTypeName> 
+  <name>Seoul</name> 
+  <country code="KR" type="Country" woeid="23424868">South Korea</country> 
+  <admin1 code="KR-11" type="Province" woeid="20069923">Seoul</admin1> 
+  <admin2 /> 
+  <admin3 /> 
+  <locality1 type="Town" woeid="1132599">Seoul</locality1> 
+  <locality2 /> 
+  <postal /> 
+- <centroid>
+  <latitude>37.557121</latitude> 
+  <longitude>126.977379</longitude> 
+  </centroid>
+- <boundingBox>
+- <southWest>
+  <latitude>37.421341</latitude> 
+  <longitude>126.768600</longitude> 
+  </southWest>
+- <northEast>
+  <latitude>37.692902</latitude> 
+  <longitude>127.186150</longitude> 
+  </northEast>
+  </boundingBox>
+  <areaRank>6</areaRank> 
+  <popRank>13</popRank> 
+  </place>
+  </results>
+  </query>
+
